@@ -3,4 +3,4 @@ markdown: redcarpet
 pygments: true
 
 relative_permalinks: true
-permalink: title
+permalink: /:title
