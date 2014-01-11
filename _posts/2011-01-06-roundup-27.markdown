@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Roundup #27'
+author: Johan
+author_login: johan
+author_email:
+author_url: http://www.freenerd.de
+wordpress_id: 1512
+wordpress_url: http://www.freenerd.de/?p=1512
+date: 2011-01-06 15:00:02.000000000 +01:00
+---
+<ul>
+	<li><a href="http://twitpic.com/37mut7">My workplace</a></li>
+	<li>Rule of thumb in Software Design: <a href="http://en.wikipedia.org/wiki/Zero_One_Infinity">Zero One Infinity</a>. Do not limit to arbitrary numbers.</li>	
+	<li><a href="http://sowhyiswikileaksagoodthingagain.com/">So, Why is Wikileaks a Good Thing Again?</a></li>
+	<li><a href="http://zunguzungu.wordpress.com/2010/11/29/julian-assange-and-the-computer-conspiracy-%E2%80%9Cto-destroy-this-invisible-government%E2%80%9D/">On the reasoning</a> behind Wikileaks</li>
+	<li><a href="http://vimeo.com/17711353">Wikirebels</a> is a very-recommended documentary about Wikileaks</li>
+	<li>Everytime I open the news, I'm curious if they finally announce the end of the world. Most of the time they don't.</li>
+	<li><a href="http://notesofberlin.blogspot.com/2010/12/du-bist-mein-traummann.html">Notes Of Berlin</a></li>
+	<li>utf-h8te</li>
+	<li>Enjoy <a href="http://www.youtube.com/watch?v=93vzwvRKbpg">Acid Rock</a></li></li>
+	<li><a href="http://twitpic.com/3km5sy">My Zoom H1 field recorder</a> (with custom-made wind shield from a sock and reminder to turn it off after use)</li>
+</ul>
+
+
+
+

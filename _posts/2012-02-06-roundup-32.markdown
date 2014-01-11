@@ -1,0 +1,38 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Roundup #32'
+author: Johan
+author_login: johan
+author_email:
+author_url: http://www.freenerd.de
+wordpress_id: 1660
+wordpress_url: http://www.freenerd.de/?p=1660
+date: 2012-02-06 17:12:53.000000000 +01:00
+---
+<ul>
+	<li><a href="http://amsterdam.musichackday.org/2012/">Music Hack Day Amsterdam</a> will happen March 24/25. Register now!</li>
+	<li><a href="http://instagr.am/p/mNRMb/">Midem</a> <a href="http://instagr.am/p/mNkq7/">Music</a> <a href="http://instagr.am/p/mIf_b/">Hack</a> <a href="http://instagr.am/p/mIiOT/">Day</a> in Cannes was fun. I built <a href="http://wiki.musichackday.org/index.php?title=Flatdrop">FlatDrop</a>.</li>
+</ul>
+
+<ul>
+	<li>I like <a href="http://loopc.am/">Loopcam</a>. <a href="http://loopc.am/tagged/freenerd">Here</a> are some .gifs I made.</li>
+	<li>Listen to a <a href="http://storywheel.cc/freenerd/story-of-my-life-maybe">story of mine on storywheel.cc</a></li>
+	<li>"Make Lists. Not War" => <a href="http://www.workflowy.com">Workflowy</a></li>
+	<li><a href="http://vimeo.com/30758950">Nice talk</a> by Oren Jacob (former CTO from Pixar) about scaling an organization</li>
+	<li>"<a href="http://www.slideshare.net/zhesto/padrino-the-godfather-of-sinatra">Padrino = Sinatra++</a>" looks interesting</li>
+</ul>
+
+<ul>
+	<li>Star Wars: A New Hope (<a href="http://vimeo.com/34948855">Uncut: Director's Cut</a>)</li>
+	<li>arte.tv has a nice streaming library. Watch <a href="http://liveweb.arte.tv/de/video/introducing_ter_haar/">Ter Haar</a> and <a href="http://liveweb.arte.tv/de/video/Soiree_de_Poche_Nils_Frahm/">Nils Frahm</a>.</li>
+	<li>Mackie releases an iPad-controlled sound mixer with an <a href="http://www.youtube.com/watch?feature=player_embedded&v=ACo3VgXijlU">epic promo video</a></li>
+</ul>
+
+<ul>
+	<li><a href="http://www.bloomberg.com/news/2011-07-14/spotify-wins-over-music-pirates-with-labels-approval-correct-.html">The Rise of Spotify</a></li>
+	<li>Learn programming with <a href="http://www.codecademy.com/#!/exercises/0">Codecademy</a></li>
+	<li><a href="http://www.youtube.com/watch?v=3ht34umQZ9E&feature=youtu.be">Shit Silicon Allee Says</a></li>
+	<li>Looking for a job? <a href="http://www.soundcloud.com/jobs">SoundCloud</a>, <a href="http://www.readmill.com/jobs">Readmill</a> and <a href="http://www.gidsy.com/jobs">Gidsy</a> are hiring.</li>
+</ul>

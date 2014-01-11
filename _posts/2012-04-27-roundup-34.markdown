@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Roundup #34'
+author: Johan
+author_login: johan
+author_email:
+author_url: http://www.freenerd.de
+wordpress_id: 1694
+wordpress_url: http://www.freenerd.de/?p=1694
+date: 2012-04-27 15:56:40.000000000 +02:00
+---
+<ul>
+	<li>Snapguide: <a href="http://snapguide.com/guides/play-a-vinyl-record-on-a-technics-sl-1210mk2/">How to play a vinyl record on a Technics SL-1210MK2</a></li>
+	<li><a href="https://www.zombiesrungame.com/">ZOMBIES, RUN!</a> makes running fun</li>
+	<li><a href="http://meta.wikimedia.org/w/index.php?title=Wikidata/en&uselang=en">Wikidata</a> sounds like a very good idea</li>
+	<li>Wanne fly to <a href="http://skyvector.com/airport/LOL/Derby-Field-Airport">LOL Airport</a>?</li>
+	<li>Two of my favorite podcast series: <a href="http://soundcloud.com/radiolab">Radiolab</a> and <a href="http://soundcloud.com/roman-mars">99% Invisible</a></li>
+	<li>Exciting new kids on the dev block: <a href="http://meteor.com/">Meteor</a> and <a href="http://www.firebase.com/">Firebase</a></li>
+	<li><a href="http://unhosted.org/">unhosted</a>: separate web apps and user data</li>
+	<li>Kickstarter: <a href="http://www.kickstarter.com/projects/1032538941/website-bootcamp-adventure-comic">Website Bootcamp Adventure Comic</a></li>
+	<li><a href="http://yourlogicalfallacyis.com/">Though shalt not commit logical fallacyis</a></li>
+	<li>SoundCloud interesting <a href="http://techcrunch.com/2012/04/25/berlins-startup-innovators-create-a-factory-to-call-their-own/">new office space</a> in Berlin revealed</li>
+	<li>Coming up: <a href="http://berlin.startupweekend.org/">StartupWeekend Berlin</a></li>
+	<li>Coming up: <a href="http://hackathon.5apps.com/">HTML5 App Hackathon Berlin</a></li>
+</ul>

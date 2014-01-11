@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Roundup #25'
+author: Johan
+author_login: johan
+author_email:
+author_url: http://www.freenerd.de
+wordpress_id: 1486
+wordpress_url: http://www.freenerd.de/?p=1486
+date: 2010-10-20 20:08:55.000000000 +02:00
+---
+I have started a small blog on Tumblr, where I put code-related findings. Nothing fancy. Check <a href="http://freenerd.tumblr.com">http://freenerd.tumblr.com</a>
+<ul>
+	<li>Started to use Vim again, mostly because of this <a href="http://stevelosh.com/blog/2010/09/coming-home-to-vim/">post</a>.</li>
+	<li><a href="http://github.com/htty/htty">htty</a> is a good curl alternative.</li>
+	<li><a href="http://inspirationfeed.com/2010/09/5-astounding-workspaces-of-successful-internet-companies/#SoundCloud">5 Astounding Workspaces</a> of Successful Internet Companies</li>
+	<li>I was at Music Hack Day Barcelona. I wrote <a href="http://backstage.soundcloud.com/2010/10/music-hack-day-barcelona/">this blog post</a> about it for the SoundCloud Backstage Blog. My hack is <a href="http://wiki.musichackday.org/index.php?title=SoundCloud_Social">SoundCloud Social</a>.</li>
+	<li>Everytime I am in a plane there is this moment where I think: "Fuck, I am sitting on a chair in the sky"</li>
+	<li>Fucking best criminal scene investigation <a href="http://www.youtube.com/watch?v=KQbsnSVM1zM">scene</a> ever.</li>
+	<li>"A bad design forces the user to deal with complexities that belong to the wrong domain."</li>
+	<li>Using <a href="http://pomodoro.ugolandini.com/">Pomodoro</a> to structure my workday. It is doing good ...</li>
+	<li>Heroku <a href="http://blog.heroku.com/archives/2010/8/20/social_app_workshop_videos/">Social App Workshop Videos</a> are an API goldmine.</li>
+	<li>Started to <a href="http://twitpic.com/2wygjh">put stickers</a> on my Macbook again.</li>
+	<li>I was giving a speech at the HPI graduation ceremony. Watch it online (in german) <a href="http://tele-task.de/archive/video/real/11234/">here</a>.</li>
+	<li><a href="http://yfrog.com/n3cdvj">I love you but ive chosen disko</a></li>
+</ul>
+
+

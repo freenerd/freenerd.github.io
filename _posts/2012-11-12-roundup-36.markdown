@@ -1,0 +1,47 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Roundup #36'
+author: Johan
+author_login: johan
+author_email:
+author_url: http://www.freenerd.de
+wordpress_id: 1771
+wordpress_url: http://www.freenerd.de/?p=1771
+date: 2012-11-12 12:48:14.000000000 +01:00
+---
+<ul>
+	<li>I co-organized <a href="http://reykjavik.musichackday.org/2012/">Music Hack Day Reykajvik 2012</a> and it was amazing.</li>
+</ul>
+
+<ul>
+	<li>I hacked at <a href="http://reykjavik.musichackday.org/2012/">Music Hack Day Reykjavik 2012</a> and made a coat hanger play Daft Punk. <a href="http://wiki.musichackday.org/index.php?title=Daft_H%C3%A4nger">Wiki Page</a>. <a href="http://www.youtube.com/watch?v=wtu0U1d2jWM&feature=youtu.be">video</a>.</li>
+	<li>I was at You Are In Control Conference 2012 in Reykajvik and spoke about Music Hack Day. <a href="http://youareincontrol.is/presentation-johan-uhle-ger-music-hack-day-reykjavik">Post</a>. <a href="http://www.freenerd.de/yaic">Slides</a>.</li>
+	<li>I was at Deezer BeMyApp Hackday Berlin 2012 and worked on <a href="http://latefy.com/">Latefy</a>, an iOS app that fingerprints the music playing around you and adds it to a Deezer playlist. <a href="http://www.youtube.com/watch?v=huto780gpkk">Video</a>. <a href="https://github.com/meeee/latefy">Code</a>. Sadly can't bring it to the app store, because we can't get a license for the fingerprinter :(</li>
+	<li>I was at the TechCrunch Disrupt Hackathon 2012 in San Francisco. Got a <a href="http://techcrunch.com/2012/09/09/bavarian-bookrocket-finds-books-related-to-apps-youve-just-opened/">post on TechCrunch</a> for the hack I did with the <a href="http://www.keyrocket.com">KeyRocket</a> guys.</li>
+</ul>
+
+
+<ul>
+	<li><a href="http://www.reddit.com/r/IWantOut/comments/zykw2/getting_out_and_what_it_means_to_me/c68uit9">The Curse of the Traveler</a></li>
+	<li>On Burning Man: <a href="http://www.huffingtonpost.com/jay-michaelson/the-truth-about-burning-m_b_279464.html">the truth</a>, <a href="http://www.youtube.com/watch?v=xxRAg9Pcpm4">a video</a>, <a href="http://instagram.com/p/PK8UsiSPDt/">a picture</a></li>
+	<li><a href="http://www.larsramberg.de/1/viewentry/3890">Palast des Zweifels</a></li>
+	<li>The worst thing about university are the constant context switches. Each day is cut into slices for different course. No flow possible ...</li>
+	<li>"Seid begabt und liebt euch!"</li>
+</ul>
+
+<ul>
+	<li><a href="http://watchlaterapp.com/">WatchLater</a> is Instagram for videos with good iPhone app</li>
+	<li><a href="http://www.musicforprogramming.net/">musicForProgramming</a>("Growing with every episode");</li>
+
+	<li>Video: <a href="http://vimeo.com/43038579">The invisible bike helmet</a></li>
+	<li>Video: Peter Thiel <a href="http://www.tele-task.de/archive/lecture/overview/6577/">talked at my university</a> about the future of society and building companies for it.</li>
+</ul>
+
+<ul>
+	<li>Essay: "<a href="http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/">As We May Think</a>" by Vennevar Bush predicting modern tech and data works</li>
+	<li>Article: <a href="http://www.time.com/time/magazine/article/0,9171,2042236,00.html">Iceland has the world's cleanest energy</a></li>
+	<li><a href="http://bob.mcwhirter.org/blog/2010/09/13/remote-worker-distributed-team/">Remote Worker and Distributed Teams</a></li>
+	<li>The '<a href="http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf">Valve Handbook For New Employees</a>' is an interesting display of hierarchy-less self-managing company culture</li>
+</ul>

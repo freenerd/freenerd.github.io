@@ -1,0 +1,35 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Roundup #28'
+author: Johan
+author_login: johan
+author_email:
+author_url: http://www.freenerd.de
+wordpress_id: 1523
+wordpress_url: http://www.freenerd.de/?p=1523
+date: 2011-02-24 23:45:45.000000000 +01:00
+---
+<ul>
+	<li>The awesome short story "<a href="http://filer.case.edu/dts8/thelastq.htm">The Last Question</a>" by Isaac Asimov</li>
+	<li>"[...] my advice to artists is: ditch the manager and hire a programmer. <a href="http://soundsideascolours.tumblr.com/post/2711595078/beyond-myspace">Link</a>"</li>
+	<li>Naivity is a virtue</li>
+	<li><a href="http://modernerd.com/post/2812040784/doing-it-for-a-living">Idea</a> on money in social networks/sharing platforms</li>
+	<li><a href="http://theoatmeal.com/comics/state_web_winter">The State of the Web</a> (as seen by The Oatmeal)</li>
+	<li>Our hack "<a href="http://wiki.musichackday.org/index.php?title=Ask_Imogen">Ask Imogen</a>" from Music Hack Day Midem Cannes. It is live <a href="http://ask.imogenheap.com">here</a> (with Imogen Heap answering questions!)</li>
+	<li>My hack "<a href="http://wiki.musichackday.org/index.php?title=InstaSamples">InstaSamples</a>" from Music Hack Day New York. <a href="http://www.youtube.com/watch?v=aFyXc-7WeYM">Video</a></li>
+	<li><a href="http://kottke.org/11/01/who-said-art-has-to-cost-money">Who said art has to cost money?</a></li>
+	<li>If in doubt, go out</li>
+	<li>This will be our response to violence | <a href="http://twitpic.com/3oi4x7">Pic</a></li>
+	<li>Funktion One's owner on why they're the best | <a href="http://www.residentadvisor.net/feed-item.aspx?id=20640">Video</a></li>
+	<li><a href="http://www.randsinrepose.com/archives/2011/01/17/managing_nerds.html">Managing Nerds</a></li>
+	<li><a href="http://www.bikeshed.com/">Why Should I Care What Color the Bikeshed Is?</a></li>
+	<li>A short <a href="http://freenerd.tumblr.com/post/3422094260/screen">intro to screen</a></li>
+	<li><a href="https://chrome.google.com/extensions/detail/ddngkjbldiejbheifcmnfmmfiniimbbg">Nicer JSON in Chrome</a></li>
+</ul>
+
+
+
+
+

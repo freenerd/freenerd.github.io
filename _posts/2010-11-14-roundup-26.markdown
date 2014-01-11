@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Roundup #26'
+author: Johan
+author_login: johan
+author_email:
+author_url: http://www.freenerd.de
+wordpress_id: 1499
+wordpress_url: http://www.freenerd.de/?p=1499
+date: 2010-11-14 17:52:11.000000000 +01:00
+---
+<ul>
+	<li>We got <a href="http://twitpic.com/2zgi6b">lego</a> in the office. Yeah!</li>
+	<li>Korg has released the wonderful iMS-20 iPad app. I demo the SoundCloud integration in the video <a href="http://blog.soundcloud.com/2010/11/12/100-apps/">in this post</a>.</li>
+	<li>SoundCloud is <a href="http://soundcloud.com/jobs/description?jvi=oBxuVfwh">hiring API developers</a></li>
+	<li>Music'n'Code #everyday</li>
+	<li>I read "<a href="http://www.google.de/search?sourceid=chrome&ie=UTF-8&q=Why's+(poignant)+Guide+to+Ruby">Why's (poignant) Guide to Ruby</a>" and I can well relate to both, his way of coding and his insanity</li>
+	<li>If you never break it, how will you learn to fix it?</li>
+	<li>I am in the <a href="http://calendar.ytmnd.com/">hustling business</a></li>
+	<li>Good presentation on <a href="http://www.slideshare.net/burkelibbey/rubys-object-model-metaprogramming-and-other-magic">Ruby's Object Model</a></li>
+</ul>
+
+
+

@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Roundup #33'
+author: Johan
+author_login: johan
+author_email:
+author_url: http://www.freenerd.de
+wordpress_id: 1690
+wordpress_url: http://www.freenerd.de/?p=1690
+date: 2012-03-29 11:05:17.000000000 +02:00
+---
+<ul>
+	<li>Launched lately: <a href="http://www.thisismyjam.com/">ThisIsMyJam.com</a></li>
+	<li>Launched lately: <a href="http://tripbirds.com/">TripBirds.com</a></li>
+	<li>Mac OS clipboard manager <a href="http://itunes.apple.com/de/app/clyppan/id412728586?mt=12">Clyppan</a> is awesome!</li>
+	<li>Regular events in Berlin: <a href="https://twitter.com/#!/likemind_bln">Likemind</a>, <a href="http://betahaus.de/2011/08/betabreakfast-jeden-donnerstag-930-uhr/">Betabreakfast</a>, <a href="http://berlin.nerdnite.com/">Nerd Nite</a>, <a href="http://up.front.ug/">up.front</a>, <a href="https://twitter.com/#!/rug_b">rug_b</a>, <a href="https://twitter.com/#!/berlinjs">Berlin.JS</a></li>
+	<li><a href="http://hipstery.com/">The Hipstery</a> sends you a mystery t-shirt</li>
+	<li>Great display of REST API capabilities at <a href="https://stripe.com/">Stripe</a>. Scroll down to paragraph number 3. Intent + Language = Code</li>
+	<li>/me at HPI <a href="https://twitter.com/#!/bastih01/status/171988222509973504/photo/1">pitching</a> to Hasso Plattner, in <a href="https://skitch.com/freenerd/8bnhc/photo">c't as 'Musikhacker'</a> and <a href="http://www.flickr.com/photos/thomasbonte/6795116877/in/photostream/">with cake</a>.</li>
+	<li><a href="http://statuscode.org/">StatusCode</a> is a great weekly newsletter about what is going on in programmer land</li>
+	<li>Great Podcast: <a href="http://musicforprogramming.net/">musicForProgramming();</a></li>
+	<li><a href="http://instagr.am/p/H0KsNZyPKD/">Stamps as business cards</a> are awesome</li>
+	<li>Most-used apps at SXSW for me: <a href="http://groupme.com/">GroupMe</a> (group messages done right), <a href="https://foursquare.com/">FourSquare</a> (where are you?), <a href="http://ban.jo/">Banjo</a> (who's here?)</li>
+	<li>"hackathons are business development for hackers." <a href="https://twitter.com/#!/stevegraham/status/179249282996649984">@stevegraham</a></li>
+	<li>Stephen Wolfram: <a href="http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/">The Personal Analytics of My Life</a></li>
+	<li>The open education project p2pu will <a href="http://blogs.p2pu.org/blog/2012/03/13/p2pu-is-going-back-to-berlin/">set-up a temporary office in Berlin in July</a> and is looking for contributors. Pays travel expenses! #django</li>
+</ul>

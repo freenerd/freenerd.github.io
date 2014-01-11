@@ -3,7 +3,7 @@ layout:   post
 title:    Bringing Art Hack Day to Berlin
 ---
 
-<a href="http://arthackday.net/berlin"><img src="/assets/LEAP_EVENT02-570x180.jpg" alt="LEAP_EVENT02" width="570" height="180" class="aligncenter size-medium wp-image-1797" /></a>
+<a href="http://arthackday.net/berlin"><img src="/assets/LEAP_EVENT02-570x180.jpg" alt="LEAP_EVENT02"  width="100%" /></a>
 
 So it looks like every year I need my "organizing a hackathon" fix. After <a href="http://berlin.musichackday.org/2011/">MHD Berlin</a> and <a href="http://reykjavik.musichackday.org/2012/">MHD Reykajvík</a>, this year it is <strong><a href="http://arthackday.net/berlin/">Art Hack Day Berlin</a></strong>.
 
