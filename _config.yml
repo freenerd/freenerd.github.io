@@ -1,6 +1,10 @@
-name: Freenerd
+name: freenerd
+description: I'm Johan. I do things with computers. I'm from Berlin.
+
 markdown: redcarpet
 pygments: true
 
 relative_permalinks: true
 permalink: /:title
+
+paginate: 10
