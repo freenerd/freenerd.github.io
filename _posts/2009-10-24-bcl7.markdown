@@ -1,0 +1,27 @@
+---
+layout: page
+status: publish
+published: true
+title: Barcamp London 7 Talk about "Tracksonamap - A Mashup on Google App Engine"
+author: Johan
+author_login: johan
+author_email:
+author_url: http://www.freenerd.de
+wordpress_id: 1173
+wordpress_url: http://www.freenerd.de/?page_id=1173
+date: 2009-10-24 17:26:23.000000000 +02:00
+---
+<div style="width:425px;text-align:left" id="__ss_2335971"><a style="font:14px Helvetica,Arial,Sans-serif;display:block;margin:12px 0 3px 0;text-decoration:underline;" href="http://www.slideshare.net/freenerd/barcamp-london-7-tracksonamap-google-app-engine" title="Barcamp London 7 Tracksonamap Google App Engine">Barcamp London 7 Tracksonamap Google App Engine</a><object style="margin:0px" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=barcamptracksonamapappengine-091024102308-phpapp01&stripped_title=barcamp-london-7-tracksonamap-google-app-engine" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=barcamptracksonamapappengine-091024102308-phpapp01&stripped_title=barcamp-london-7-tracksonamap-google-app-engine" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object><div style="font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;">View more <a style="text-decoration:underline;" href="http://www.slideshare.net/">presentations</a> from <a style="text-decoration:underline;" href="http://www.slideshare.net/freenerd">freenerd</a>.</div></div>
+
+Go to <a href="http://www.tracksonamap.com">http://www.tracksonamap.com</a> and check out the webapp I'm talking about.
+
+Follow me on Twitter <a href="http://twitter.com/freenerd">@freenerd</a> and follow Tracksonamap on Twitter <a href="http://twitter.com/tracksonamap">@tracksonamap</a>
+
+<a href="http://www.soundcloud.com">SoundCloud</a> and <a href="http://code.google.com/intl/de-DE/appengine/">Google App Engine</a>
+
+"<a href="http://aralbalkan.com/1504">Why Google App Engine is broken and what Google must do to fix it.</a>"
+
+Other SoundCloud Mashups:
+<a href="http://citysounds.fm/">CitySounds.fm</a>
+<a href="http://radioclouds.com/">RadioClouds</a>
+<a href="http://www.thecloudplayer.com/">The CloudPlayer</a>
