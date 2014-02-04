@@ -260,6 +260,8 @@ a:focus {
 }
 .colophon-links li {
   color: inherit;
+  display: inline;
+  margin-right: 5px;
 }
 
 /* Responsive masthead */
@@ -285,10 +287,15 @@ a:focus {
     left: 0;
   }
   .masthead h1 {
-    font-size: 64px;
+    font-size: 50px;
   }
   .colophon {
     margin-top: 40px;
+  }
+
+  .colophon-links li {
+    display: block;
+    margin-right: 0;
   }
 }
 

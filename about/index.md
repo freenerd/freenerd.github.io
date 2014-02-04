@@ -3,6 +3,8 @@ layout: default
 ---
 
 <div class="post">
+  <img src="/assets/avatar.png" style="margin: 0 auto 40px auto" />
+
   <h1>About</h1>
 
   <p>Hi, my name is Johan Uhle. I'm from Berlin/Germany. I do things with computers.</p>
