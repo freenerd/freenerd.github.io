@@ -12,7 +12,7 @@ wordpress_url: http://www.freenerd.de/?p=1313
 date: 2010-04-26 22:42:01.000000000 +02:00
 ---
 <div style="text-align: left;padding-top: 15px;padding-left: 30px">
-<img src="/assets/musichackdayamsterdam2010.jpg" alt="musichackdayamsterdam2010" title="musichackdayamsterdam2010" width="500" height="375" class="aligncenter size-full wp-image-1314" / style="border: solid 2px #000000">
+<img src="/assets/musichackdayamsterdam2010.jpg" alt="musichackdayamsterdam2010" title="musichackdayamsterdam2010"  class="aligncenter size-full wp-image-1314" / style="border: solid 2px #000000">
 <em>Photo by <a href="http://www.flickr.com/photos/mschieben/4547409769/">mschieben</a></em>
 </div>
 

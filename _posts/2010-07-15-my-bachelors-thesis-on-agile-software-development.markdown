@@ -12,7 +12,7 @@ wordpress_url: http://www.freenerd.de/?p=1385
 date: 2010-07-15 18:44:39.000000000 +02:00
 ---
 <div style="text-align: left;padding-top: 15px;padding-left: 25px">
-<img src="/assets/bachelorsthesiscover.jpg" alt="" title="bachelorsthesiscover" width="470" height="208" class="aligncenter size-full wp-image-1389" style="border: solid 2px #000000"/>
+<img src="/assets/bachelorsthesiscover.jpg" alt="" title="bachelorsthesiscover"  class="aligncenter size-full wp-image-1389" style="border: solid 2px #000000"/>
 </div>
 
 Three weeks ago I  handed in my Bachelor's thesis with the sonorous name "<a href='/assets/bachelors_thesis_johan_uhle.pdf'>Agile Software Development in Small Projects - Methods and Techniques used in the Sendinel Project</a>".

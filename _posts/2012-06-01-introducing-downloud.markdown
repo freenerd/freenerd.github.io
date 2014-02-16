@@ -11,7 +11,7 @@ wordpress_id: 1715
 wordpress_url: http://www.freenerd.de/?p=1715
 date: 2012-06-01 09:43:15.000000000 +02:00
 ---
-<img src="/assets/downloud.png" alt="" title="Downloud Screenshot" width="500" height="600" class="alignright size-medium wp-image-1716" />Yesterday I coded a small project called Downloud, it's basically a simpler <a href="http://www.fatdrop.co.uk/">Fatdrop</a>. The code is on Github <a href="https://github.com/freenerd/downloud">here</a> and a demo is <a href="http://downloud.herokuapp.com/odd001josht">here</a>.
+<img src="/assets/downloud.png"  alt="download" />Yesterday I coded a small project called Downloud, it's basically a simpler <a href="http://www.fatdrop.co.uk/">Fatdrop</a>. The code is on Github <a href="https://github.com/freenerd/downloud">here</a> and a demo is <a href="http://downloud.herokuapp.com/odd001josht">here</a>.
 
 <strong>The Background</strong>
 

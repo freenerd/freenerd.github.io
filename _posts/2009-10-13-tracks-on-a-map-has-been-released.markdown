@@ -11,7 +11,7 @@ wordpress_id: 1132
 wordpress_url: http://www.freenerd.de/?p=1132
 date: 2009-10-13 14:31:32.000000000 +02:00
 ---
-<img src="/assets/tracksonamap.jpg" alt="tracksonamap screenshot" title="tracksonamap screenshot" width="570" height="441" class="aligncenter size-full wp-image-1135" />
+<img src="/assets/tracksonamap.jpg" alt="tracksonamap screenshot" title="tracksonamap screenshot"  class="aligncenter size-full wp-image-1135" />
 
 <a href="http://www.freenerd.de/archives/2009/1112/">About a month ago</a>, the Music Hackday took place, where <a href="http://www.tracksonamap.com">Tracks On A Map</a> got it's name and saw the light as a pre-release. Last friday, we finally <a href="http://blog.soundcloud.com/2009/10/09/tracksonamap/">launched</a> it, after putting more hard work into it. We are pretty happy with the outcome, since we created a sleek and easy-to-use application that is standing on a solid code base.
 

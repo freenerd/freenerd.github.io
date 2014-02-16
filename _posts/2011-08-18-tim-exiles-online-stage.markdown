@@ -11,7 +11,7 @@ wordpress_id: 1573
 wordpress_url: http://www.freenerd.de/?p=1573
 date: 2011-08-18 02:03:49.000000000 +02:00
 ---
-<a href="http://www.timexile.tv"><img src="/assets/timexileonlinestage.jpg" alt="" title="timexileonlinestage" width="590" height="440" class="aligncenter size-full wp-image-1577" /></a>
+<a href="http://www.timexile.tv"><img src="/assets/timexileonlinestage.jpg" alt="" title="timexileonlinestage"  class="aligncenter size-full wp-image-1577" /></a>
 
 This Thursday, August 18th at 19:00 CEST/UTC+2, <a href="http://en.wikipedia.org/wiki/Tim_Exile">Tim Exile</a> will play the first official gig on his new Online Stage at <a href="http://www.timexile.tv">www.timexile.tv</a> ... and I'm super excited about it, because <a href="http://twitter.com/roelven">Roel</a> and me build that site for him (with the design help of <a href="http://www.failme.net/">Sheikh</a>). You have to tune in! You can watch an <a href="http://timexile.tv/">explanation video on the site</a> now already.
 

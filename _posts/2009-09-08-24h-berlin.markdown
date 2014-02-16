@@ -11,7 +11,7 @@ wordpress_id: 1104
 wordpress_url: http://www.freenerd.de/archives/2009/1104/
 date: 2009-09-08 14:01:01.000000000 +02:00
 ---
-<p class="attachment"><img width="552" height="377" title="Bild 1" alt="" class="attachment-medium" src="/assets/24hberlin.png"/></a></p>
+<p class="attachment"><img  title="Bild 1" alt="" class="attachment-medium" src="/assets/24hberlin.png"/></a></p>
 
 In the last days I've been fascinated by watching the "<a href="http://24hberlin.de/">24h Berlin</a>" project, which has been done by rbb and Arte. The basic idea was to have 80 camera crews following people in the city on their daily life on September, the 5th 2008 from 6:00 to 6:00. These huge amount of material has been compiled into one 24 hours long film, assembling the movie clips in a sort of real time order, with the different "plot lines" running parallel.
 

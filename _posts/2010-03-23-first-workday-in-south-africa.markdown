@@ -11,9 +11,9 @@ wordpress_id: 1244
 wordpress_url: http://www.freenerd.de/?p=1244
 date: 2010-03-23 22:14:22.000000000 +01:00
 ---
-<img src="/assets/south_africa_1.jpg" alt="First workday in South Africa - The car you can see is not ours!" title="First workday in South Africa" width="570" height="428" class="aligncenter size-full wp-image-1246" />
+<img src="/assets/south_africa_1.jpg" alt="First workday in South Africa - The car you can see is not ours!" title="First workday in South Africa" class="aligncenter size-full wp-image-1246" />
 
-I am currently sitting in a cottage in the woods some kilometers east of the town Hazyview in East South Africa. The 3G network is more stable and faster than I have ever experienced it in Germany. 
+I am currently sitting in a cottage in the woods some kilometers east of the town Hazyview in East South Africa. The 3G network is more stable and faster than I have ever experienced it in Germany.
 
 In South Africa the summer has just ended and autumn has broken, which means that it is not getting warmer than 30°C ... good for us. Furthermore it is raining every now and then cooling down the air even more.
 
@@ -23,7 +23,7 @@ Today in the morning, we drove to a clinic in a rural part of South Africa. In t
 
 The journey to the clinic led us first through a very touristic area where one high-prized hotel followed the next. We then took a well-built asphalt road driving north. We left that road for a dirt road as you can see it on the picture above. After a long time (which we mainly used for regretting not to have a 4x4 offroader) we arrived at the clinic.
 
-<img src="/assets/south_africa_2.jpg" alt="Clinic in rural South Africa" title="Clinic in rural South Africa" width="570" height="428" class="aligncenter size-full wp-image-1249" />
+<img src="/assets/south_africa_2.jpg" alt="Clinic in rural South Africa" title="Clinic in rural South Africa" class="aligncenter size-full wp-image-1249" />
 
 The clinic is part of a SAP Research project where they test the usage of computer technology in the rural primary health system. After having a tour around, we started to deploy our system. We plugged our server into the local network and set-up terminal test computers.
 

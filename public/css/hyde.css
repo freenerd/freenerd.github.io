@@ -181,7 +181,8 @@ blockquote p:after {
 
 img {
   display: block;
-  margin: 0 0 15px;
+  margin: 0 auto 15px auto;
+  max-width: 100%;
   border-radius: 5px;
 }
 

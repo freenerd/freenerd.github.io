@@ -11,7 +11,7 @@ wordpress_id: 1542
 wordpress_url: http://www.freenerd.de/?p=1542
 date: 2011-06-21 14:13:10.000000000 +02:00
 ---
-<img src="/assets/mhd_bcn_2011.png" alt="" title="Music Hack Day Barcelona" width="600" height="119" class="aligncenter size-full wp-image-1549" />
+<img src="/assets/mhd_bcn_2011.png" alt="" title="Music Hack Day Barcelona"  class="aligncenter size-full wp-image-1549" />
 
 Last week I attended <a href="http://bcn.musichackday.org/2011/">Music Hack Day Barcelona</a>. This is a write-up of my experience.
 
@@ -41,7 +41,7 @@ One hack that really pushed boundaries is <a href="https://github.com/nddrylliog
 
 There were a lot of other great hacks, have a look at the list <a href="http://wiki.musichackday.org/index.php?title=Barcelona_Hacks_2011">here</a>.
 
-<img src="/assets/mhd_bcn_2011_2.png" alt="" title="SoundCloud @ MHD BCN 2011" width="600" height="106" class="aligncenter size-full wp-image-1555" />
+<img src="/assets/mhd_bcn_2011_2.png" alt="" title="SoundCloud @ MHD BCN 2011"  class="aligncenter size-full wp-image-1555" />
 
 SoundCloud was a fairly large group with eight people on the Hack Day. We are very committed to Music Hack Days,  send a lot of people and I'm always a bit afraid of us dominating the hack day with presence. But it turns out that we are actually a humble, nice-to-be-around bunch of interesting people that doesn't just preach the SoundCloud gospel. At least this is the feedback I got from others. And for us it is very nice to be able to help others with their hacks but also to learn from them and engage in interesting conversations about everything.
 

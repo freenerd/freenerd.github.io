@@ -12,7 +12,7 @@ wordpress_url: http://www.freenerd.de/?p=1361
 date: 2010-06-25 22:55:21.000000000 +02:00
 ---
 <div style="text-align: left;padding-top: 15px;padding-left: 25px">
-<img src="/assets/soundcloudhpi.jpg" alt="" title="soundcloudhpi" width="505" height="331" class="aligncenter size-full wp-image-1362" style="border: solid 2px #000000" />
+<img src="/assets/soundcloudhpi.jpg" alt="" title="soundcloudhpi"  class="aligncenter size-full wp-image-1362" style="border: solid 2px #000000" />
 </div>
 
 Today marks two major turnarounds in my life.

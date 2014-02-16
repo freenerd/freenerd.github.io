@@ -11,7 +11,7 @@ wordpress_id: 1745
 wordpress_url: http://www.freenerd.de/?p=1745
 date: 2012-09-10 21:19:30.000000000 +02:00
 ---
-<img src="/assets/readmill.jpg" alt="" title="readmill" width="100%" class="aligncenter size-full wp-image-1746" />
+<img src="/assets/readmill.jpg" alt="" title="readmill" />
 
 In August I spent a month working with the people at <a href="http://www.readmill.com">Readmill</a> and I thought I'd share some insights.
 

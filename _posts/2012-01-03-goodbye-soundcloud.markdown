@@ -11,7 +11,7 @@ wordpress_id: 1615
 wordpress_url: http://www.freenerd.de/?p=1615
 date: 2012-01-03 14:03:36.000000000 +01:00
 ---
-<img src="/assets/goodbyesoundcloud.jpg" alt="" title="goodbyesoundcloud" width="600" height="300" class="aligncenter size-full wp-image-1638" />
+<img src="/assets/goodbyesoundcloud.jpg" alt="" title="goodbyesoundcloud"  class="aligncenter size-full wp-image-1638" />
 
 With the beginning of this new year I'm not a SoundClouder anymore.
 

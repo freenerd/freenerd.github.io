@@ -11,7 +11,7 @@ wordpress_id: 1106
 wordpress_url: http://www.freenerd.de/?p=1106
 date: 2009-09-10 21:10:18.000000000 +02:00
 ---
-<p class="attachment"><img width="511" height="74" title="Bild 2" alt="" class="attachment-medium" src="/assets/mhdberlin2009.png"/></p>
+<p class="attachment"><img  title="Bild 2" alt="" class="attachment-medium" src="/assets/mhdberlin2009.png"/></p>
 
 From September 18th to 20th Nerds are going to gather in Berlin to hack on music-related projects at <a href="http://berlin.musichackday.org/">Music Hackday Berlin</a>.
 

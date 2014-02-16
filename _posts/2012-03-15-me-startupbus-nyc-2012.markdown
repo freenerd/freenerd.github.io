@@ -11,7 +11,7 @@ wordpress_id: 1674
 wordpress_url: http://www.freenerd.de/?p=1674
 date: 2012-03-15 23:48:02.000000000 +01:00
 ---
-<img src="/assets/austinnyc2012-1.jpg" alt="" title="startupbus" width="600" height="200" class="aligncenter size-full wp-image-1677" />
+<img src="/assets/austinnyc2012-1.jpg" alt="" title="startupbus"  class="aligncenter size-full wp-image-1677" />
 
 <strong>What is StartupBus?</strong>
 
@@ -27,7 +27,7 @@ The buses went all day and arrived in a city in the evening where usually a pitc
 
 After three days all buses converged in San Antonio and the teams then went to Austin to finish up their works. The conductors decided on which teams may pitch in the semi-finals. From there a jury decided on who advances to the finals the next day, where a winner was chosen.
  
-<img src="/assets/buspeople.jpg" alt="" title="buspeople" width="600" height="200" class="aligncenter size-full wp-image-1679" />
+<img src="/assets/buspeople.jpg" alt="" title="buspeople"  class="aligncenter size-full wp-image-1679" />
 
 <strong>What is StartupBus really?</strong>
 
@@ -37,7 +37,7 @@ The competition is a huge driver for the teams and gives the conductors the oppo
 
 One of my major take-aways was pitching and 'getting shit done'. From early on, a huge emphasis was put on the pitch. It forced us to limit scope and 'get real'. Even though my team was eventually able to craft a really nice prototype, StartupBus is less about building something awesome, but more about conceptualizing it and thinking it through as well as how to build well-working team. Another good trait I practised was networking skills, walking up to people and try to figure out the value for each other as quick as possible (but not being creepy about it). Somehow this appears easier to me in the US, where very content focused encounters with little small talk are well accepted.
 
-<img src="/assets/windows.jpg" alt="" title="windows" width="600" height="200" class="aligncenter size-full wp-image-1680" />
+<img src="/assets/windows.jpg" alt="" title="windows"  class="aligncenter size-full wp-image-1680" />
 
 <strong>Things have to suck (a bit)</strong>
 
@@ -47,13 +47,13 @@ The interesting thing is that I feel that all these things contributed to the ex
 
 Given that building a community is the overall goal, giving ways to distinguish your team, bus and StartupBus in general from the world seems to necessary, it enabled me to build strong bonds with the people involved but also I do share a common understanding with all the people I will meet in the future who went through the same procedure.
 
-<img src="/assets/now.jpg" alt="" title="now" width="600" height="200" class="aligncenter size-full wp-image-1682" />
+<img src="/assets/now.jpg" alt="" title="now"  class="aligncenter size-full wp-image-1682" />
 
 <strong>And now?</strong>
 
 StartupBus got a lot of attention this year. For example check the articles in <a href="http://www.theatlanticwire.com/entertainment/2012/03/happiness-bus-sxsw/49676/">The Atlantic Wire</a> and <a href="http://www.businessweek.com/articles/2012-03-07/hitching-a-ride-on-an-startupbus-bound-for-sxsw">Bloomberg Business Week</a>. Also there are more articles coming up, for example one in Time Magazine by an embedded journalist who rode in our bus. Harvard Business school also did research on entrepreneurship in the context of StartupBus. And I'm already excited for the class of next year. And one more thing: StartupBus is coming to Europe this year. It will be awesome. You should be on it!
 
-<img src="/assets/bonusround.jpg" alt="" title="bonusround" width="600" height="102" class="aligncenter size-full wp-image-1683" />
+<img src="/assets/bonusround.jpg" alt="" title="bonusround"  class="aligncenter size-full wp-image-1683" />
 
 <strong>Bonus: How did I get on the bus?</strong>
 

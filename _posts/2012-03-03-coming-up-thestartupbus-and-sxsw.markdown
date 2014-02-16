@@ -11,7 +11,7 @@ wordpress_id: 1659
 wordpress_url: http://www.freenerd.de/?p=1659
 date: 2012-03-03 17:20:21.000000000 +01:00
 ---
-<img src="/assets/austinnyc2012.jpg" alt="" title="austinnyc2012" width="600" height="200" class="aligncenter size-full wp-image-1670" />
+<img src="/assets/austinnyc2012.jpg" alt="" title="austinnyc2012"  class="aligncenter size-full wp-image-1670" />
 
 On the road. Tomorrow I will fly to New York and board the <a href="http://startupbus.com/">NYC StartupBus</a>. It will be 3 days, 3000 kilometers and 30 'buspreneurs' hacking and crafting on 3G internet on a bus driving cross country. We'll eventually land in Austin on March 9th for the beginning of South By Southwest.
 
