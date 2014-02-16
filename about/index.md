@@ -8,7 +8,7 @@ title: 'About'
 
   <h1>About</h1>
 
-  <p>Hi, my name is Johan Uhle. I'm from Berlin/Germany. I do things with computers.</p>
+  <p>Hi, my name is Johan Uhle. I do things with computers. I'm from Berlin/Germany.</p>
 
   <h3>Contact</h3>
 
