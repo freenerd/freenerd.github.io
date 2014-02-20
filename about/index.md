@@ -4,7 +4,7 @@ title: 'About'
 ---
 
 <div class="post">
-  <img src="/assets/avatar.png" style="margin: 0 auto 40px auto" />
+  <img src="/assets/avatar.png" style="height: 109px; width: 109px; margin: 0 auto 40px auto" />
 
   <h1>About</h1>
 
