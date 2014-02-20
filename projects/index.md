@@ -9,6 +9,7 @@ title: 'Projects'
 
 - flickr-uploader ([repository](https://github.com/freenerd/flickr-uploader))
 - Tracksonamap ([website](http://tracksonamap.com)/[blog post](/tracks-on-a-map-has-been-released))
+- Tim Exile's Online Stage ([blog post](/tim-exiles-online-stage))
 - Happstr at [StartupBus](http://www.startupbus.com/) NYC 2012 ([website](http://www.happstr.com)/[blog post](/me-startupbus-nyc-2012))
 
 # Events
