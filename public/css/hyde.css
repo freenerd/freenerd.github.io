@@ -326,6 +326,7 @@ a:focus {
 /* Single post */
 .post {
   margin: 40px 20px;
+  text-align: justify;
 }
 @media (min-width: 990px) {
   /* Increase space between posts */
