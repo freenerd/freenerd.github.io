@@ -25,5 +25,5 @@ date: 2012-03-29 11:05:17.000000000 +02:00
 	<li>Most-used apps at SXSW for me: <a href="http://groupme.com/">GroupMe</a> (group messages done right), <a href="https://foursquare.com/">FourSquare</a> (where are you?), <a href="http://ban.jo/">Banjo</a> (who's here?)</li>
 	<li>"hackathons are business development for hackers." <a href="https://twitter.com/#!/stevegraham/status/179249282996649984">@stevegraham</a></li>
 	<li>Stephen Wolfram: <a href="http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/">The Personal Analytics of My Life</a></li>
-	<li>The open education project p2pu will <a href="http://infos.p2pu.org/blog/2012/03/13/p2pu-is-going-back-to-berlin/">set-up a temporary office in Berlin in July</a> and is looking for contributors. Pays travel expenses! #django</li>
+	<li>The open education project p2pu will <a href="http://info.p2pu.org/blog/2012/03/13/p2pu-is-going-back-to-berlin/">set-up a temporary office in Berlin in July</a> and is looking for contributors. Pays travel expenses! #django</li>
 </ul>
