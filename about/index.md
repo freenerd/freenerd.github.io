@@ -18,6 +18,7 @@ title: 'About'
     <li><a href="http://github.com/freenerd">github.com/freenerd</a></li>
     <li><a href="http://soundcloud.com/freenerd">soundcloud.com/freenerd</a></li>
     <li><a href="http://www.linkedin.com/in/johanuhle">linkedin.com/in/johanuhle</a></li>
+    <li>no messages on Facebook</li>
   </ul>
 
   <h3>Stuff you can talk with me about</h3>
