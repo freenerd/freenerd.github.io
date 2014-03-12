@@ -1,4 +1,5 @@
 name: freenerd
+domain: freenerd.de
 
 markdown: redcarpet
 pygments: true
