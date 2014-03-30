@@ -12,7 +12,7 @@ The first question you have to answer: _What do you want to access?_
 
   1. Public data
   1. Private data your Github account has access to (like private repos)
-  1. Private date from other people's Github accounts
+  1. Private data from other people's Github accounts
 
 The third case is a bit more complicated, since it requires OAuth 2 for an  authentication flow. I'll cover that in another blog post. So let's focus on the first two cases for now.
 
