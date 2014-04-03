@@ -1,6 +1,7 @@
 ---
 layout:   post
 title:    Accessing the GitHub API with Golang
+comments: true
 permalink: accessing-the-github-api-with-golang
 ---
 
