@@ -64,11 +64,11 @@ body {
 }
 @media (min-width: 990px) {
   body {
-    font-size: 18px;
+    font-size: 16px;
   }
 
   div.content.container {
-    max-width: 700px;
+    max-width: 650px;
   }
 }
 
