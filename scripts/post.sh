@@ -10,6 +10,7 @@ post=$(cat <<POST
 ---
 layout:   post
 title:    $1
+comments: true
 ---
 POST)
 
