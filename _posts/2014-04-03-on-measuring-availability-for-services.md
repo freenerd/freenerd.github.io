@@ -75,7 +75,7 @@ Next, we will look at the actual acts of measuring.
 
 ### Heartbeat
 
-A [Heartbeat](https://en.wikipedia.org/wiki/Heartbeat_(computing) is a periodic message, signaling the current state of operation. In our context, it usually involves a client (which gives the heartbeat) and a server (which collects the heartbeat). Heartbeat gives us a classic time series: a server notes the client as _up_ when it sees a valid heartbeat message for a given period and _down_ when none at all or only a failure heartbeat message is seen.
+A [Heartbeat](https://en.wikipedia.org/wiki/Heartbeat_%28computing%29) is a periodic message, signaling the current state of operation. In our context, it usually involves a client (which gives the heartbeat) and a server (which collects the heartbeat). Heartbeat gives us a classic time series: a server notes the client as _up_ when it sees a valid heartbeat message for a given period and _down_ when none at all or only a failure heartbeat message is seen.
 
 There are two communication patterns for the heartbeat:
 
