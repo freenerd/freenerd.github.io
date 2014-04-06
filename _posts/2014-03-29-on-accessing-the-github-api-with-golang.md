@@ -72,7 +72,7 @@ The current `body` is just a string, so we still have to parse it in order to ac
 // parse json
 type jsonUser struct {
   Name string `json:"login"`
-  Blog string
+  Blog string `json:"blog"`
 }
 user := jsonUser{}
 
