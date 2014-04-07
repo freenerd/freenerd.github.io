@@ -11,6 +11,7 @@ This post is a _Table of Contents_ for all the posts around the thesis.
 
 #### content posts
 
+  * [Modeling Dependencies in a Microservice Architecture](/modeling-dependencies-in-a-microservice-architure/) (high-level overview)
   * Dependability Threats (to be written)
   * A Fault Model for Distributed Systems (to be written)
   * [Measuring Availability of Services](/on-measuring-availability-for-services/)
