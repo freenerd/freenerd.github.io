@@ -69,15 +69,11 @@ Both approaches seem to be able to support monitoring the availability threats a
 
 ### Conclusion
 
-Generating the dependency graph is the core of this modeling process. I showed several approaches that should enable the automated generationg of that graph from an existing microservice architecture. In my case study, these were inhibited by a heterogenous environment, especially in regards to using service discovery.
+Generating the dependency graph is the core of this modeling process. I showed several approaches that should enable the automated generationg of that graph from an existing microservice architecture. In my case study, these were inhibited by a heterogenous environment, especially in regards to the use of service discovery.
 
 The structural fault tree seems to have less usefulness in practice than the dependency graph. On the other hand, a fault tree with failure rates might be a helpful tool in monitoring changes to the availability of an application.
 
-The thesis operates under strong assumptions regarding application failure propagation. Extending it with fault tolerance mechanisms will be an interesting future work, as well as using a more homogenous environment for a case study.
-
-<!--The history of the microservice architecture I investigated was that a monolithic application was broken into smaller services. But the monolith is still there, most importantly keeping the master data and core business logic. This leads to all microservices depending on the monolith still. -->
-
-<!--For the future: more paas, devops, building programmable infrastructure means, that we can not only create it from code, but should also be able to reason about it, once it is created. That is part of controling complexity.-->
+The thesis operates under strong assumptions regarding application failure propagation. Extending it with fault tolerance mechanisms will be an interesting future work, as well as doing a case study in a more homogenous environment.
 
 ### References
 
