@@ -1,0 +1,12 @@
+# freenerd.de
+
+  * This is the code for the blog [freenerd.de](http://freenerd.de).
+  * It is built with [Jekyll](http://jekyllrb.com/).
+  * It is deployed on [Github Pages](https://pages.github.com/).
+
+## Local installation and running
+
+  * Have `ruby` and `bundler`
+  * run `bundle install`
+  * run `jekyll --watch server`
+  * be happy
