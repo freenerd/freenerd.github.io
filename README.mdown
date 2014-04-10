@@ -10,3 +10,7 @@
   * run `bundle install`
   * run `jekyll --watch server`
   * be happy
+
+## Contribute
+
+Sure, give me pull requests. Like fix typos and so on.
