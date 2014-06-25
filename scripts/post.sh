@@ -11,15 +11,17 @@ fi
 date=$(date +%F)
 
 filename="$date-$( echo $1 | tr "A-Z" "a-z" | tr " " "-" ).md"
+full_filename="./_posts/$filename"
 
 post=$(cat <<POST
 ---
 layout:   post
-title:    $1
+title:    "$1"
 comments: true
 ---
 POST)
 
-echo "$post" > "./_posts/$filename"
+echo "$post" > $full_filename
+echo "Generated new post: $full_filename"
 
 mvim "./_posts/$filename"
