@@ -2,6 +2,12 @@
 #
 # Usage: ./scripts/post.sh My new post
 
+if [[ $1 == "" ]]
+then
+  echo "Usage: ./post.sh <TITLE>"
+  exit 1
+fi
+
 date=$(date +%F)
 
 filename="$date-$( echo $1 | tr "A-Z" "a-z" | tr " " "-" ).md"
