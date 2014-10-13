@@ -6,7 +6,7 @@ comments: true
 
 <img src="/assets/Mapbox-Graphic.png" />
 
-This week I joined the team of <a href="http://mapbox.com">Mapbox</a>. Mapbox builds great tools to create fantastic maps of the world, your country or your neighbourhood. The maps are highly customizable, with beautiful styles and your own data sets. Put them into your mobile app or display them on your website. Foursquare, Pintrest and <a href="https://www.mapbox.com/showcase/">others</a> are already using it. And you should really have a look at the great <a href="https://www.mapbox.com/foundations/">guides</a> and get started. Below is a satellite map of Berlin-Kreuzberg with my co-working space co.up marked up:
+This week I joined the team of <a href="http://mapbox.com">Mapbox</a>. Mapbox builds great tools to create fantastic maps of the world, your country or your neighbourhood. The maps are highly customizable, with beautiful styles and your own data sets. Put them into your mobile app or display them on your website. Foursquare, Pinterest and <a href="https://www.mapbox.com/showcase/">others</a> are already using it. And you should really have a look at the great <a href="https://www.mapbox.com/foundations/">guides</a> and get started. Below is a satellite map of Berlin-Kreuzberg with my co-working space co.up marked up:
 
 <iframe width='100%' height='300px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/freenerd.jnh3h2dm/attribution,zoompan.html?access_token=pk.eyJ1IjoiZnJlZW5lcmQiLCJhIjoieHhSTW9UUSJ9.H-2Yu04O3M72_TYnxC3BZQ#14/52.499167/13.418056'></iframe>
 
@@ -21,3 +21,5 @@ The [Mapbox Github org](https://github.com/mapbox/) currently has over 100 publi
 Mapbox is a huge consumer and contributor to [OpenStreetMap](http://openstreetmap.org), the Wikipedia for map data. Mapbox has worked on better tooling (like the [id editor](https://www.mapbox.com/blog/announcing-id/)) and has an own team contributing data (like [buildings in NYC](https://www.mapbox.com/blog/nyc-buildings-openstreetmap/)). And as outlined very well <a href="http://zedie.wordpress.com/2014/01/14/why-the-world-needs-openstreetmap/">here</a>, the world needs OpenStreetMap.
 
 So all of these aspects made it clear to me that Mapbox is a company I want to be a part of. I'm happy I get the chance to do so. And if you have any questions about maps, cloud infrastructure or working at Mapbox, [keep them coming](/about/). I'm happy to answer.
+
+_(Update 13th Oct 2014: The welcome blog post on mapbox.com is online [here](https://www.mapbox.com/blog/johan-uhle-joins/))_
