@@ -5,6 +5,8 @@ permalink: better-links-to-github-files
 comments: true
 ---
 
+__Update: GitHub has this build in already. Press `y` and you'll get the canonical URL. Nice. 30 minutes of my life wasted to get that insight ...__
+
 When you are sending links around to files on GitHub, these links usually include the branch name. If the branch changes, your link might break. If you link to linenumbers, the link to that line might be useless when the file changes and lines move around. Here is a bookmarklet that transforms a link to a file from going to a branch to the specific current HEAD commit. This allows to keep links consistent, even when files change.
 
 #### Example
