@@ -8,8 +8,14 @@
 
   * Have `ruby` and `bundler`
   * run `bundle install`
-  * run `jekyll --watch server`
+  * run `bundle exec jekyll serve`
   * be happy
+
+## New posts
+
+```
+./scripts/post.sh <TITLE>
+```
 
 ## Contribute
 

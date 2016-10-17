@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: page
 title: 'Projects'
 ---
-
-<div class="post">
 
 # Talks
 

@@ -1,12 +1,6 @@
 name: freenerd
 domain: freenerd.de
 
-markdown: redcarpet
-redcarpet:
-  extensions: ["autolink", "no_intra_emphasis"]
-highlighter: pygments
-
-relative_permalinks: true
 permalink: /:title
 
 paginate: 10
