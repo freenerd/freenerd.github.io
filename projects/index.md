@@ -7,6 +7,7 @@ title: 'Projects'
 
 # Talks
 
+- 2016 State Of The Map - State of OSRM [video](https://www.youtube.com/watch?v=NzrxxVl5idQ) [slides](http://www.slideshare.net/freenerd/state-of-osrm-sotm-2016)
 - 2016 FOSS4G Bonn - Dealing with change - OSRM Version 5 [video](http://ftp5.gwdg.de/pub/misc/openstreetmap/FOSS4G-2016/foss4g-2016-1332-dealing_with_change_-_osrm_version_5-hd.webm) [slides](http://www.slideshare.net/freenerd/open-source-routing-machine-foss4g-2016-bonn)
 - 2015 Wherecamp Berlin - The State of the Open Source Routing Machine [video](https://www.youtube.com/watch?v=gqUDXnpkrus)
 
