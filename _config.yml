@@ -1,6 +1,0 @@
-name: freenerd
-domain: freenerd.de
-
-permalink: /:title
-
-paginate: 10

@@ -1,37 +1,61 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <title>freenerd</title>
+  <link rel="shortcut icon" href="/favicon.ico">
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1>
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+  <style>
+	div {
+	    width: 500px;
+	    height: 150px;
+	    background-color: white;
+	    
+	    position: absolute;
+	    top:0;
+	    bottom: 0;
+	    left: 0;
+	    right: 0;
+	    
+	    margin: auto;
+	}
+	
+	p {
+	    box-sizing: border-box;
+	    color: black;
+	    font-family: Helvetica, Arial, sans-serif;
+	    font-size: 24px;
+	    font-weight: 300;
+	    line-height: 36px;
+	    margin-bottom: 0px;
+	    margin-left: 0px;
+	    margin-right: 0px;
+	    margin-top: 0px
+	}
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+	a {
+	    text-decoration-line: none;
+	    color: black;
+	}
+  </style>
+</head>
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
+<body>
+<div>
+	<table>
+	<tr>
+		<td>
+			<img src="avatar.png" style="height: 109px; width: 109px; margin: auto 50px auto auto" />
+		<td>
+			<p>johan uhle</p>
+			<p>berlin & cyberspace</p>
+			<p>linkedin: <a href="https://www.linkedin.com/in/johanuhle">johanuhle</a>
+			<p>email: johanatfreenerd.de</p>
+		</td>
+	</tr>
+	</table>
 </div>
-
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a href="/page{{paginator.next_page}}" class="older">Older</a>
-  {% else %}
-    <span class="next">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a href="/" class="newer">Newer</a>
-    {% else %}
-      <a href="/page{{paginator.previous_page}}" class="newer">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="previous">Newer</span>
-  {% endif %}
-</div>
+</body>
+</html>
